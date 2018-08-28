@@ -30,3 +30,4 @@ C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcore
 C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcoreapp2.1\CoreBasicCrudApp.dll
 C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcoreapp2.1\CoreBasicCrudApp.pdb
 C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcoreapp2.1\CoreBasicCrudApp.csproj.CopyComplete
+C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcoreapp2.1\Razor\Pages\Create.g.cshtml.cs
