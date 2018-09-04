@@ -2,7 +2,9 @@ C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\bin\Debug\netcore
 C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\bin\Debug\netcoreapp2.1\CoreBasicCrudApp.runtimeconfig.json
 C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\bin\Debug\netcoreapp2.1\CoreBasicCrudApp.runtimeconfig.dev.json
 C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\bin\Debug\netcoreapp2.1\CoreBasicCrudApp.dll
-C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcoreapp2.1\CoreBasicCrudApp.csprojAssemblyReference.cache
+C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\bin\Debug\netcoreapp2.1\CoreBasicCrudApp.pdb
+C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\bin\Debug\netcoreapp2.1\CoreBasicCrudApp.Views.dll
+C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\bin\Debug\netcoreapp2.1\CoreBasicCrudApp.Views.pdb
 C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcoreapp2.1\CoreBasicCrudApp.csproj.CoreCompileInputs.cache
 C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcoreapp2.1\CoreBasicCrudApp.RazorAssemblyInfo.cache
 C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcoreapp2.1\CoreBasicCrudApp.RazorAssemblyInfo.cs
@@ -13,6 +15,8 @@ C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcore
 C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcoreapp2.1\CoreBasicCrudApp.RazorCoreGenerate.cache
 C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
 C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcoreapp2.1\Razor\Pages\Create.g.cshtml.cs
+C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcoreapp2.1\Razor\Pages\Edit.g.cshtml.cs
 C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
 C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
 C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
@@ -23,11 +27,7 @@ C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcore
 C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
 C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcoreapp2.1\CoreBasicCrudApp.RazorTargetAssemblyInfo.cache
 C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcoreapp2.1\CoreBasicCrudApp.RazorTargetAssemblyInfo.cs
-C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\bin\Debug\netcoreapp2.1\CoreBasicCrudApp.pdb
-C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\bin\Debug\netcoreapp2.1\CoreBasicCrudApp.Views.dll
-C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\bin\Debug\netcoreapp2.1\CoreBasicCrudApp.Views.pdb
 C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcoreapp2.1\CoreBasicCrudApp.Views.pdb
 C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcoreapp2.1\CoreBasicCrudApp.dll
 C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcoreapp2.1\CoreBasicCrudApp.pdb
 C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcoreapp2.1\CoreBasicCrudApp.csproj.CopyComplete
-C:\Users\youngb\source\repos\CoreBasicCrudApp\CoreBasicCrudApp\obj\Debug\netcoreapp2.1\Razor\Pages\Create.g.cshtml.cs

@@ -62,7 +62,7 @@ using CoreBasicCrudApp;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(73, 758, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "941c2935ff9c46a4b27d5176a6070305", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d95ce2443cca43d89b217a7710228f08", async() => {
                 BeginContext(93, 180, true);
                 WriteLiteral("\r\n    <table class=\"table\">\r\n        <thead>\r\n            <tr>\r\n                <th>ID</th>\r\n                <th>Name</th>\r\n            </tr>\r\n        </thead>\r\n\r\n        <tbody>\r\n");
                 EndContext();
@@ -96,7 +96,7 @@ using CoreBasicCrudApp;
                 WriteLiteral("</td>\r\n                    <td>\r\n                        ");
                 EndContext();
                 BeginContext(504, 57, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a1b12d53c7d04e6fa777be6457dc86ca", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6034fa8badee4d55a431a1f934c60a49", async() => {
                     BeginContext(553, 4, true);
                     WriteLiteral("edit");
                     EndContext();
@@ -131,7 +131,7 @@ using CoreBasicCrudApp;
                 WriteLiteral("\r\n\r\n                        ");
                 EndContext();
                 BeginContext(589, 91, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("button", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4de8c87dbd174b9eac846a936e880409", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("button", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a2038ec1abd840769d0e16fdf6ebf5ca", async() => {
                     BeginContext(665, 6, true);
                     WriteLiteral("delete");
                     EndContext();
@@ -176,7 +176,7 @@ using CoreBasicCrudApp;
                 WriteLiteral("\r\n        </tbody>\r\n    </table>\r\n\r\n    ");
                 EndContext();
                 BeginContext(789, 33, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6b4f4de89b8c457ebf93c2652297fe48", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "83289945de8e45bb8956d0e7fbf6da8c", async() => {
                     BeginContext(812, 6, true);
                     WriteLiteral("create");
                     EndContext();
