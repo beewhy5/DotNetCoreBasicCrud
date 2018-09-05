@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Logging;
 
 namespace CoreBasicCrudApp
 {
@@ -26,8 +27,7 @@ namespace CoreBasicCrudApp
         {
             services.Configure<CookiePolicyOptions>(options =>
             {
-                // This lambda determines whether user consent for non-essential cookies is needed for a given request.
-                options.CheckConsentNeeded = context => true;
+                // This lambda determines whether user consent for non-essential cookies is needed for a given request. -- removed
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
@@ -35,13 +35,19 @@ namespace CoreBasicCrudApp
                 options.UseInMemoryDatabase("name")
                 );
 
+            services.AddLogging();
+
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggingFactory)
         {
+            //Add Logging
+            loggingFactory.AddConsole(); //if running from the command line - generate out to the console
+            loggingFactory.AddDebug();
+
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
